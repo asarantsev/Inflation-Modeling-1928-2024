@@ -1,1 +1,2 @@
-# Inflation-Modeling-1928-2024
+Failed modeling for inflation as white noise and autoregression, with or without normalizing by dividing by volatility
+
